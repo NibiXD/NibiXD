@@ -1,16 +1,35 @@
-### Hi there 👋
+### <div align="center">Listen to my story... This may be our last chance... </div>
+##
 
-<!--
-**NibiXD/NibiXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://thumbs.gfycat.com/RichPaltryAntbear-size_restricted.gif" atl="Zanarkand">
+</div>
 
-Here are some ideas to get you started:
+##
+  <h3>Olá! me chamo Carlos Daniel</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou estudando desenvolvimento web e pretendo aprender mais sempre, principalmente relacionado ao Back-End.
+Logo abaixo tem um breve resumo dos meus status/conhecimentos. 
+
+
+<h2 align="left">My Status:</h2>
+<div align="center">
+  <a href="https://github.com/NibiXD">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NibiXD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NibiXD&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
+<h2 align="left">My Skills:</h2>  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Nibi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Nibi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Nibi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Nibi-CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+</div>  
+  
+  
+<h2 align="left">Social:</h2>
+<div>
+  <a href="https://www.linkedin.com/in/carlos-daniel-39b695220/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:c.daniel1505@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
